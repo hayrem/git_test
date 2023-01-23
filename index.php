@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>From</h1>
+    <p>
+        <input type="text">
+    </p>
 </body>
 </html>
